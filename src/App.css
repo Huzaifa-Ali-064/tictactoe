@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(2, 2, 39);
+  color: #fff;
+}
+.row{
+  display: flex;
+}
+.column{
+height: 70px;
+width: 70px;
+border: 1px solid rgb(250, 246, 246); 
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 30px;
+cursor: pointer;
+}
+.grid{
+  margin: 20px;
+ padding: 20px;
+}
